@@ -1,0 +1,6 @@
+{
+  "name": "Lobs Grill Chicken",
+  "description": "A high-converting, premium fast-casual restaurant website for LOBS GRILL CHICKEN, featuring signature flame-grilled dishes, interactive order cart, and customizable delivery options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
